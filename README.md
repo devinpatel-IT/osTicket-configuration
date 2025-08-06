@@ -184,4 +184,9 @@ _<b>2. CREATE SAMPLE AGENTS </b>_
 
 <p>These are help desk employees that will triage tickets</p>
 
+<br/>
+
+Please continue to next repository to view ticketing system lifecycle.
+[osTicket Lifecycle](https://github.com/devinpatel-osTicket-lifecycle) 
+
 
