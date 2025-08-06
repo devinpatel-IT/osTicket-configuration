@@ -102,8 +102,9 @@ _<b>2. ESTABLISHED TEAMS (explanation below)</b>_
 <img width="1112" height="421" alt="Screenshot 2025-08-05 164236" src="https://github.com/user-attachments/assets/89db05df-6540-4a28-921d-03485a471e2c" />
 </p>
 
-<p>
 _<strong>1. Level 1 suppport team</span></strong>_
+
+<p>
 Purpose:
 The Level 1 Support Team acts as the first line of defense for all incoming support tickets. They handle common issues, provide general assistance, and triage requests before escalation.
 
