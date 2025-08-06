@@ -29,7 +29,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-<p><b>ROLE BASED ACCESS PERMISSIONS CONFIGURATION</b></p>
+_<b>1. ROLE BASED ACCESS PERMISSIONS CONFIGURATION</b>_
 
 <p>
 <img <img width="1041" height="501" alt="Screenshot 2025-08-05 164305" src="https://github.com/user-attachments/assets/d41fb3c1-7035-4c2f-846d-c4d92bb57cd5" />
@@ -41,7 +41,7 @@ Role-based access control configured – Demonstrates roles with distinct permis
 </p>
 <br />
 
-TICKETING SYSTEM DEPARTMENTS (explanation below)
+_<b>2. TICKETING SYSTEM DEPARTMENTS (explanation below)</b>_
 
 <p>
 <img width="1109" height="402" alt="Screenshot 2025-08-05 164248" src="https://github.com/user-attachments/assets/f6c201f1-ebd7-4228-9323-d6014c327c2b" />
