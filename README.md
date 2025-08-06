@@ -44,7 +44,7 @@ Role-based access control configured – Demonstrates roles with distinct permis
 
 </p>
 <p>
-System Departments and Their Roles
+TICKETING SYSTEM DEPARTMENTS
 
 _<strong>1. Support Department</span></strong>_
 
