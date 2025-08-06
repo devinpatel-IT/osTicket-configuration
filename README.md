@@ -43,8 +43,48 @@ Role-based access control configured – Demonstrates roles with distinct permis
 <img width="1109" height="402" alt="Screenshot 2025-08-05 164248" src="https://github.com/user-attachments/assets/f6c201f1-ebd7-4228-9323-d6014c327c2b" />
 
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p>🔧 System Departments and Their Roles
+1. Support Department
+Primary Role: Acts as the first point of contact for end-users. Handles general user inquiries, basic troubleshooting, and routine support requests.
+
+Ticket Tier Coverage:
+
+Tier 1 (Level 1):
+
+Password resets
+
+Account access issues
+
+Basic software/application guidance
+
+FAQs and how-to requests
+
+Tier 2 (Level 2) (limited):
+
+Escalated issues that require moderate technical knowledge
+
+Troubleshooting known system issues using documented procedures
+
+2. System Administrators Department
+Primary Role: Manages back-end systems and infrastructure. Handles advanced technical issues, system configuration, security, and escalated tickets from the Support Department.
+
+Ticket Tier Coverage:
+
+Tier 2 (Level 2):
+
+Configuration changes
+
+Internal system diagnostics
+
+Network or server-level issues
+
+Tier 3 (Level 3):
+
+Complex incidents requiring code/database access
+
+Security breaches or system failures
+
+Root cause analysis and permanent fixe
 </p>
 <br />
 
