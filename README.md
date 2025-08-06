@@ -41,7 +41,7 @@ Role-based access control configured – Demonstrates roles with distinct permis
 </p>
 <br />
 
-_<b>2. TICKETING SYSTEM DEPARTMENTS (explanation below)</b>_
+_<b>2. ESTABLISHED TICKETING SYSTEM DEPARTMENTS (explanation below)</b>_
 
 <p>
 <img width="1109" height="402" alt="Screenshot 2025-08-05 164248" src="https://github.com/user-attachments/assets/f6c201f1-ebd7-4228-9323-d6014c327c2b" />
