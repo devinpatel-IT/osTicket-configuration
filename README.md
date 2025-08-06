@@ -169,3 +169,19 @@ Tickets requiring technical investigation or platform expertise are escalated to
 
 </p>
 <br />
+
+_<b>2. CREATE SAMPLE USERS </b>_
+
+<img width="1110" height="476" alt="Screenshot 2025-08-05 164357" src="https://github.com/user-attachments/assets/bcfbd1ec-abc7-44b7-b913-0bd391e78434" />
+
+<p>These are employees that will submit tickets to the help desk</p>
+
+<br/> 
+
+_<b>2. CREATE SAMPLE AGENTS </b>_
+
+<img width="1137" height="479" alt="Screenshot 2025-08-05 164224" src="https://github.com/user-attachments/assets/383d3034-3ddd-4ac7-a9b1-c92af8ec6845" />
+
+<p>These are help desk employees that will triage tickets</p>
+
+
