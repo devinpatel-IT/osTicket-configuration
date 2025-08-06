@@ -21,7 +21,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Create admin level role named "supereme admin" 
+- Establish different roles in system with various permission levels
 - Add atleast two departments
 - Implement atleast two realistic teams
 - Add atleast two real users and agents 
