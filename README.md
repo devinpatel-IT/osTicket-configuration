@@ -29,6 +29,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
+<p><b>ROLE BASED ACCESS PERMISSIONS CONFIGURATION</b></p>
+
 <p>
 <img <img width="1041" height="501" alt="Screenshot 2025-08-05 164305" src="https://github.com/user-attachments/assets/d41fb3c1-7035-4c2f-846d-c4d92bb57cd5" />
 
