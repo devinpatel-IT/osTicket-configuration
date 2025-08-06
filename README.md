@@ -22,8 +22,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Post-Install Configuration Objectives</h2>
 
 - Establish different roles in system with various permission levels
-- Add atleast two departments
-- Implement atleast two realistic teams
+- Add departments
+- Implement teams 
 - Add atleast two real users and agents 
 
 
@@ -33,8 +33,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img <img width="1041" height="501" alt="Screenshot 2025-08-05 164305" src="https://github.com/user-attachments/assets/d41fb3c1-7035-4c2f-846d-c4d92bb57cd5" />
  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Role-based access control configured – Demonstrates roles with distinct permissions applied within the ticketing system. This will be very useful and assigning permissions to different users and groups.
 </p>
 <br />
 
