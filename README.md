@@ -103,6 +103,67 @@ _<b>2. ESTABLISHED TEAMS (explanation below)</b>_
 </p>
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+_<strong>1. Level 1 suppport team</span></strong>_
+Purpose:
+The Level 1 Support Team acts as the first line of defense for all incoming support tickets. They handle common issues, provide general assistance, and triage requests before escalation.
+
+Key Responsibilities:
+Receive and respond to initial customer inquiries or issues.
+
+Perform basic troubleshooting for banking services (e.g., login issues, account access problems).
+
+Categorize, prioritize, and document tickets clearly.
+
+Resolve low-complexity issues or known problems using standard procedures.
+
+Escalate complex or specialized cases to the appropriate teams (e.g., Online Banking Team, IT, or Level 2 support).
+
+Monitor open tickets to ensure timely responses and customer satisfaction.
+
+Ticket Examples:
+Password reset requests
+
+Unable to access mobile/online banking
+
+Incorrect account balances displayed
+
+Help navigating the banking portal
+
+_<strong>2. Online Banking Team</span></strong>_
+Purpose:
+The Online Banking Team is a specialized technical group that manages and supports issues specifically related to the bank’s online banking platform. They are responsible for maintaining a secure, functional, and reliable user experience across the digital banking ecosystem.
+
+Key Responsibilities:
+Handle tickets escalated from Level 1 involving online banking functionality.
+
+Investigate and resolve platform-specific bugs or outages.
+
+Support backend operations of mobile apps, internet banking, and digital account services.
+
+Coordinate with developers, cybersecurity teams, and infrastructure teams as needed.
+
+Test and validate fixes for reported issues before deployment.
+
+Provide feedback and documentation to help the Level 1 team better resolve recurring issues.
+
+Ticket Examples:
+Failed funds transfer through online banking
+
+Online bill payment issues
+
+Errors during account registration via the website/app
+
+MFA (multi-factor authentication) not functioning properly
+
+Security concerns or suspicious online activity
+
+Workflow Summary
+Customers submit tickets through web/app/phone.
+
+Level 1 Support Team triages and resolves simple/general issues.
+
+Tickets requiring technical investigation or platform expertise are escalated to the Online Banking Team.
+
+
 </p>
 <br />
