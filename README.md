@@ -131,6 +131,7 @@ Incorrect account balances displayed
 Help navigating the banking portal
 
 _<strong>2. Online Banking Team</span></strong>_
+
 Purpose:
 The Online Banking Team is a specialized technical group that manages and supports issues specifically related to the bank’s online banking platform. They are responsible for maintaining a secure, functional, and reliable user experience across the digital banking ecosystem.
 
