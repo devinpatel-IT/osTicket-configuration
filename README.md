@@ -43,7 +43,9 @@ Role-based access control configured – Demonstrates roles with distinct permis
 <img width="1109" height="402" alt="Screenshot 2025-08-05 164248" src="https://github.com/user-attachments/assets/f6c201f1-ebd7-4228-9323-d6014c327c2b" />
 
 </p>
-<p>🔧 System Departments and Their Roles
+<p>
+System Departments and Their Roles
+
 1. Support Department
 Primary Role: Acts as the first point of contact for end-users. Handles general user inquiries, basic troubleshooting, and routine support requests.
 
