@@ -72,7 +72,7 @@ Escalated issues that require moderate technical knowledge
 
 Troubleshooting known system issues using documented procedures
 
-_<strong>1. System Admins</span></strong>_
+_<strong>2. System Administrators</span></strong>_
 
 Primary Role: Manages back-end systems and infrastructure. Handles advanced technical issues, system configuration, security, and escalated tickets from the Support Department.
 
