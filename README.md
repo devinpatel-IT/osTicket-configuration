@@ -203,6 +203,6 @@ _<b>2. CREATE SAMPLE AGENTS </b>_
 <br/>
 
 Please continue to the next repository to view the ticketing system lifecycle.
-[osTicket Lifecycle](https://github.com/devinpatel-osTicket-lifecycle) 
+[osTicket Lifecycle](https://github.com/devinpatel-IT/osTicket-lifecycle) 
 
 
