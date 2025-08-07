@@ -21,10 +21,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Establish different roles in system with various permission levels
+- Establish different roles in the system with various permission levels
 - Add departments
 - Implement teams 
-- Add atleast two real users and agents 
+- Add at least two real users and agents 
 
 
 <h2>Configuration Steps</h2>
@@ -92,7 +92,7 @@ Complex incidents requiring code/database access
 
 Security breaches or system failures
 
-Root cause analysis and permanent fixe
+Root cause analysis and permanent fix
 </p>
 <br />
 
@@ -126,7 +126,7 @@ Password reset requests
 
 Unable to access mobile/online banking
 
-Incorrect account balances displayed
+Incorrect account balances are displayed
 
 Help navigating the banking portal
 
@@ -155,7 +155,7 @@ Online bill payment issues
 
 Errors during account registration via the website/app
 
-MFA (multi-factor authentication) not functioning properly
+MFA (multi-factor authentication) is not functioning properly
 
 Security concerns or suspicious online activity
 
@@ -174,7 +174,7 @@ _<b>2. CREATE SAMPLE USERS </b>_
 
 <img width="1110" height="476" alt="Screenshot 2025-08-05 164357" src="https://github.com/user-attachments/assets/bcfbd1ec-abc7-44b7-b913-0bd391e78434" />
 
-<p>These are employees that will submit tickets to the help desk</p>
+<p>These are employees who will submit tickets to the help desk</p>
 
 <br/> 
 
@@ -186,7 +186,7 @@ _<b>2. CREATE SAMPLE AGENTS </b>_
 
 <br/>
 
-Please continue to next repository to view ticketing system lifecycle.
+Please continue to the next repository to view the ticketing system lifecycle.
 [osTicket Lifecycle](https://github.com/devinpatel-osTicket-lifecycle) 
 
 
