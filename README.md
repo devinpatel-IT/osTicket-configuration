@@ -12,6 +12,7 @@ As an IT professional, I created this ticketing system project to simulate how t
 <p>This project demonstrates my understanding of:</p>
 
 <ul>
+  <li>Ticketing System Fundamentals</li>
   <li>IT service management (ITSM) workflows</li>
   <li>User support processes</li>
   <li>Database and web application fundamentals</li>
