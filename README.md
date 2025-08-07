@@ -4,7 +4,19 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+As an IT professional, I created this ticketing system project to simulate how technical support teams handle, track, and prioritize user requests in a structured and efficient way. The goal was to build a centralized solution that mirrors real-world helpdesk operations, improving visibility, accountability, and response times for IT issues.
+
+This project demonstrates my understanding of:
+
+IT service management (ITSM) workflows
+
+User support processes
+
+Database and web application fundamentals
+
+Automation and escalation logic
+
+By building this from the ground up, I showcased both technical and operational skills — from designing the backend structure to implementing features like ticket categories, status tracking, and role-based access. It reflects my ability to support users not just technically, but through scalable, organized systems that align with industry support models..<br />
 
 
 <h2>Environments and Technologies Used</h2>
