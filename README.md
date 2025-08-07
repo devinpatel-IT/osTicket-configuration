@@ -6,7 +6,7 @@
 <h1>osTicket - Post-Install Configuration</h1>
 As an IT professional, I created this ticketing system project to simulate how technical support teams handle, track, and prioritize user requests in a structured and efficient way. The goal was to build a centralized solution that mirrors real-world helpdesk operations, improving visibility, accountability, and response times for IT issues.
 
-
+<br>
 <p>This project demonstrates my understanding of:
 
 IT service management (ITSM) workflows
