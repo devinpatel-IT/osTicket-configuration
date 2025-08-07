@@ -198,7 +198,7 @@ _<b>2. CREATE SAMPLE AGENTS </b>_
 
 <img width="1137" height="479" alt="Screenshot 2025-08-05 164224" src="https://github.com/user-attachments/assets/383d3034-3ddd-4ac7-a9b1-c92af8ec6845" />
 
-<p>These are help desk employees that will triage tickets</p>
+<p>These are help desk employees who will triage tickets</p>
 
 <br/>
 
